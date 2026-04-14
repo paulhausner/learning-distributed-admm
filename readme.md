@@ -1,6 +1,6 @@
 # Learning to accelerate distributed ADMM using graph neural networks
 
-This repository contains the code for the paper Learning to accelerate distributed ADMM using graph neural networks by Henri Doerks, Paul Häusner, Daniel Hernández Escobar, and Jens Sjölund.
+This repository contains the code for the paper [Learning to accelerate distributed ADMM using graph neural networks](https://arxiv.org/abs/2509.05288) by [Henri Doerks](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2206), [Paul Häusner](https://paulhausner.github.io/), [Daniel Hernández Escobar](https://www.uu.se/kontakt-och-organisation/personal?query=N23-2641), and [Jens Sjölund](https://jsjol.github.io/).
 
 ## Dependencies
 
@@ -38,7 +38,15 @@ To train and test the models run
 
 ## Reference
 
-coming soon.
+```
+@inproceedings{doerks2026learning,
+  title={Learning to accelerate distributed {ADMM} using graph neural networks},
+  author={Henri Doerks and Paul H{\"a}usner and Daniel Hern{\'a}ndez Escobar and Jens Sj{\"o}lund},
+  booktitle={8th Annual Learning for Dynamics and Control Conference},
+  year={2026},
+  url={https://openreview.net/forum?id=VK0NIqNqzE}
+}
+```
 
 ## Contact
 
